@@ -1,0 +1,2 @@
+1. Sistem menggunakan Laravel 9, dengan Versi PHP 8.1
+2. Ketika klik Cetak Struk juga sudah otomatis menambahkan data untuk masuk kedatase dan ada alert data berhasil dicetak atau tidak 
